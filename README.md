@@ -1,4 +1,4 @@
-# mserv
+# MINI HTTPS SERVER
 
 **mserv** is a lightweight high-performance asynchronous HTTP/HTTPS server written in C.
 
