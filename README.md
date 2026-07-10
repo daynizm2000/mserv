@@ -95,7 +95,7 @@ sudo pacman -S openssl llhttp
 Recommended:
 
 ```
-Linux Kernel >= 7.x
+Linux Kernel
 ```
 
 KTLS support is recommended for HTTPS performance improvements.
